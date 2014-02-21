@@ -1,4 +1,4 @@
-import counter
+from engine import counter
 
 
 class Bohne:
